@@ -1,0 +1,19 @@
+{
+  "method": "POST",
+  "data": {
+    "alert_id": "4721254898",
+    "alert_name": "subscription_created",
+    "currency": "AUD",
+    "email": "karen@hotmail.com",
+    "event_time": "2021-01-19 10:40:05",
+    "linked_subscriptions": "",
+    "marketing_consent": 0,
+    "next_bill_date": "2021-01-26",
+    "passthrough": "{\"payoutValue\":20,\"clickID\":\"d7gt0nfbpr14pat42rjm502k\",\"funnelTitle\":\"[AU] Paddle 048\",\"funnelURL\":\"https://try.ya.ru.com/order-form1598515886396?cid=d7gt0nfbpr14pat42rjm502k&utm_source=Internal+Push\",\"funnelId\":9760278,\"utmSource\":\"Internal+Push\",\"subdate\":\"null\",\"pccid\":\"null\"}",
+    "quantity": "1",
+    "status": "trialing",
+    "subscription_id": "5901335",
+    "subscription_plan_id": "616042",
+    "unit_price": "19.99"
+  }
+}
